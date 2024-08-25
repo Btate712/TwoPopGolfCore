@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoPopGolfCoreDomain", "TwoPopGolfCoreDomain\TwoPopGolfCoreDomain.csproj", "{6F00A493-BE6E-4228-BB1B-78C6748131A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoPopGolfCoreDomainTests", "TwoPopGolfCoreDomainTests\TwoPopGolfCoreDomainTests.csproj", "{0099150F-320B-4B8D-AB88-FAB74A444FB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F00A493-BE6E-4228-BB1B-78C6748131A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F00A493-BE6E-4228-BB1B-78C6748131A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F00A493-BE6E-4228-BB1B-78C6748131A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F00A493-BE6E-4228-BB1B-78C6748131A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0099150F-320B-4B8D-AB88-FAB74A444FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0099150F-320B-4B8D-AB88-FAB74A444FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0099150F-320B-4B8D-AB88-FAB74A444FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0099150F-320B-4B8D-AB88-FAB74A444FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
