@@ -18,7 +18,7 @@ public class TeeSetTests
         TeeSet teeSet = TeeSet.New()
             .WithName(Name)
             .WithCourseRating(CourseRating)
-            // .WithSlopeRating(SlopeRating)
+            .WithSlopeRating(SlopeRating)
             .WithHoles(teeSetHoles);
         
         // Act - no Assertion needed since an exception would cause the test to fail
